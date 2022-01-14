@@ -12,6 +12,15 @@ Weibo：
 
 Perkey:https://www.dropbox.com/s/hd80j6u1nfqy4hi/perkey_data.zip
 
+KPCrowd
+
+DUC
+
+KPTimes 
+
+JPTimes
+
+
 3、科技论文数据集
 
 OAGK:https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-2943
