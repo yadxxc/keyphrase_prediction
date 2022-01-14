@@ -2,11 +2,15 @@
 
 社交数据集：
 
-Perkey:https://www.dropbox.com/s/hd80j6u1nfqy4hi/perkey_data.zip
+Twitter：
+
+StackExchange：
+
+Weibo：
 
 新闻数据集：
 
-
+Perkey:https://www.dropbox.com/s/hd80j6u1nfqy4hi/perkey_data.zip
 
 科技论文数据集：
 
