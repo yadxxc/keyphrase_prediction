@@ -1,18 +1,18 @@
 # Keyphrase数据集
 
-社交数据集：
+1、社交数据集
 
-Twitter：
+Twitter：https://trec.nist.gov/data/tweets/
 
-StackExchange：
+StackExchange：https://archive.org/details/@stack_exchange
 
 Weibo：
 
-新闻数据集：
+2、新闻数据集
 
 Perkey:https://www.dropbox.com/s/hd80j6u1nfqy4hi/perkey_data.zip
 
-科技论文数据集：
+3、科技论文数据集
 
 OAGK:https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-2943
 
