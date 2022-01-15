@@ -50,6 +50,7 @@ STACKEX:https://archive.org/details/stackexchange
 
 Zhu et al., 2020 https://ieee-dataport.org/open-access/biomedical-keyphrase-extraction-dataset
 
+SOFTWARE：(162,282，20k,20k)链接无法打开，https://drive.google.com/open?id=14ml4DW12x-oytj5XrVgEwIn9mziw37inj
 
 FULLTEXTKP：全文数据集，未公开。Garg et al.,2021（Keyphrase Generation Beyond the Boundaries of Title and Abstract）
 
