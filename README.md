@@ -4,9 +4,16 @@
 
 Twitter：https://trec.nist.gov/data/tweets/
 
+Weibo：
+
+Twitter和Weibo两个版本：
+Wang et al., NAACL-HLT 2019, Oral,Microblog Hashtag Generation via Encoding Conversation Contexts.
+Wang et al., ACL 2019,Topic-Aware Neural Keyphrase Generation for Social Media Language.
+
+
 StackExchange：https://archive.org/details/@stack_exchange
 
-Weibo：
+
 
 In-house:
 
