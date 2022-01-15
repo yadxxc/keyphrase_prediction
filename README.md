@@ -2,16 +2,24 @@
 
 1、社交数据集
 
-Twitter：https://trec.nist.gov/data/tweets/
+1)Twitter：https://trec.nist.gov/data/tweets/
 
-Weibo：
+2)Weibo：
 
 Twitter和Weibo两个版本：
+
 Wang et al., NAACL-HLT 2019, Oral,Microblog Hashtag Generation via Encoding Conversation Contexts.
+
+Twitter:44,793;
+Weibo:40,171
+
 Wang et al., ACL 2019,Topic-Aware Neural Keyphrase Generation for Social Media Language.
 
+Twitter:44,113;
+Weibo:46,296
 
-StackExchange：https://archive.org/details/@stack_exchange
+
+3)StackExchange：https://archive.org/details/@stack_exchange
 
 
 
