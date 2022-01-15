@@ -48,6 +48,8 @@ OAGKX:https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-3062
 
 STACKEX:https://archive.org/details/stackexchange
 
+Zhu et al., 2020 https://ieee-dataport.org/open-access/biomedical-keyphrase-extraction-dataset
+
 NTCIR-2
 
 ACM-CR
