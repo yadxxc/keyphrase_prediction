@@ -50,6 +50,8 @@ STACKEX:https://archive.org/details/stackexchange
 
 Zhu et al., 2020 https://ieee-dataport.org/open-access/biomedical-keyphrase-extraction-dataset
 
+4、其他下游任务数据集
+
 NTCIR-2
 
-ACM-CR:https://github.com/boudinfl/redefining-absent-keyphrases/tree/main/data/acm-cr
+ACM-CR:检索任务，https://github.com/boudinfl/redefining-absent-keyphrases/tree/main/data/acm-cr
