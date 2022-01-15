@@ -25,9 +25,7 @@ Weibo:46,296
 
 In-house:
 
-Wang et al.2020（Cross-Media Keyphrase Prediction: A Unified Framework with Multi-Modality Multi-Head Attention and Image Wordings）:推特数据集
-
-基于推特的多模态数据集：https://github.com/yuewang-cuhk/CMKP/tree/main/data
+Wang et al.2020（Cross-Media Keyphrase Prediction: A Unified Framework with Multi-Modality Multi-Head Attention and Image Wordings）:基于推特的多模态数据集，https://github.com/yuewang-cuhk/CMKP/tree/main/data
 
 2、新闻数据集
 
