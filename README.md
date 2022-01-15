@@ -8,12 +8,12 @@
 
 Twitter和Weibo两个版本：
 
-Wang et al., NAACL-HLT 2019, Oral,Microblog Hashtag Generation via Encoding Conversation Contexts.
+Wang et al., NAACL-HLT 2019, Oral,Microblog Hashtag Generation via Encoding Conversation Contexts.https://github.com/yuewang-cuhk/HashtagGeneration
 
 Twitter:44,793;
 Weibo:40,171
 
-Wang et al., ACL 2019,Topic-Aware Neural Keyphrase Generation for Social Media Language.
+Wang et al., ACL 2019,Topic-Aware Neural Keyphrase Generation for Social Media Language.https://github.com/yuewang-cuhk/TAKG
 
 Twitter:44,113;
 Weibo:46,296
